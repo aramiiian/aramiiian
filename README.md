@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Haykaz and I'm a Front End Developer, from Armenia</h2>
+<!-- <h2 align="left">Hi 👋! My name is Haykaz and I'm a Front End Developer, from Armenia</h2>
 
 ###
 
@@ -44,3 +44,4 @@
 <img src="https://raw.githubusercontent.com/aramiiian/aramiiian/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+ -->
