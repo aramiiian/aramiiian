@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm Haykaz</div>  
   
-
-                   I'm full-stack developer from Armenia  
+<div align="center">I'm full-stack developer from Armenia</div>  
+  
   
 
 - 🔭 I’m currently working on [Planet Fiber](https://planetfiber.am/ru)  
